@@ -1,1 +1,1 @@
-# prog7
+echo <this is my p7>
